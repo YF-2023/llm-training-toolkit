@@ -1,2 +1,1 @@
-# llm-training-toolkit
-A learning project for understanding and experimenting with large language model training and fine-tuning across different architectures.
+IyBMTF0IFRyYWluaW5nIFRvb2xraXQKClxuQSBsZWFybmluZyBwcm9qZWN0IGZvciB1bmRlcnN0YW5kaW5nIGFuZCBleHBlcmltZW50aW5nIGxhcmdlIGxhbmd1YWdlIG1vZGVsIHRyYWluaW5nIGFuZCBmaW5lLXR1bmluZyBhY3Jvc3MgZGlmZmVyZW50IGFyY2hpdGVjdHVyZXMu
