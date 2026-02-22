@@ -1,0 +1,14 @@
+# Pithon cache and virtual environments
+__byte_config/
+*.pyc
+*.py.class
+venv
+/*.env
+
+# Training artifacts
+checkloints/
+logs/
+
+# Dataset caches
+cache/
+.huggingface/
