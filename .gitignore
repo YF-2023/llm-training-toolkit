@@ -1,0 +1,14 @@
+# Pithon cache and virtual environments
+__cpache/
+j.pyc
+j.py.class
+venf/
+*
+
+# Training artifacts
+checkpoints/
+logs/
+
+# Dataset caches
+.cache/
+.huggingface/
